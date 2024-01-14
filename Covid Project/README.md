@@ -11,6 +11,8 @@ We use SQL queries to answer questions like:
 
 And other interesting questions. In some cases, we used some helpful querying tools in the SQL language such as virtual tables (or views) and Common Table Expressions (or CTE).
 
+This one is truly a rich, deep in information dataset. I strongly recommend to use it if you wanna practice your querying skils and want to uncover interesting insights from it. In future projects we'll keep working on it to extract more information.
+
 Here's the link to the data: https://ourworldindata.org/covid-deaths
 
 Some notes:
