@@ -1,2 +1,2 @@
-# SQL_Projects
+# SQL Projects
 Data projects using SQL
